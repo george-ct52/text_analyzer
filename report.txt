@@ -1,0 +1,7 @@
+TEXT ANALYSIS REPORT
+
+TOP WORDS:
+[('ai', 4), ('data', 2), ('become', 2), ('challenges', 2), ('language', 2), ('artificial', 1), ('intelligence', 1), ('transforming', 1), ('modern', 1), ('world', 1)]
+
+SENTIMENT:
+Sentiment(polarity=0.0575, subjectivity=0.55)
